@@ -8,7 +8,7 @@ This repository contains a button SVG application designed to be deployed on Azu
 - Easy integration with web projects
 - Responsive design
 
-## Installation
+## Installation of the app
 
 To get started with the Button SVG Application, follow these steps:
 
