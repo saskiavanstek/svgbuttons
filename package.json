@@ -1,0 +1,23 @@
+{
+  "name": "svgbuttons",
+  "version": "1.0.0",
+  "description": "This repository contains a button SVG application designed to be deployed on Azure. The application provides customizable SVG buttons for web projects.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saskiavanstek/svgbuttons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saskiavanstek/svgbuttons/issues"
+  },
+  "homepage": "https://github.com/saskiavanstek/svgbuttons#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
